@@ -8,10 +8,14 @@ PySimpleGUI
 ```
 It's listed on `requirements.txt`. You can also use `texas_env.yaml` to create conda environment on your PC or server.
 
+```
+pip install -r requirements.txt
+```
+
 ### Use
 ```
 cd code
-python viewer.py
+python view.py
 ```
 The application should be like the following figure.
 Includes **Hand Cards**, **Flops**, **Turn** and **River**.
